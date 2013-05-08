@@ -22,7 +22,7 @@ package info spec is stored in the `goin.json` file:
         "github-client": { "remote": "github.com/alcacoop/go-github-client/users" },
 
         // install as a local package, so you can import these packages as local packages.
-        "github-client": { "local": "git@github.com:alcacoop/go-github-client.git" }
+        "net/github": { "local": "git@github.com:alcacoop/go-github-client.git" }
     }
 }
 ```
